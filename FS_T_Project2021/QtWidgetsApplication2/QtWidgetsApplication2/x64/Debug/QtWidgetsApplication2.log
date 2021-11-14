@@ -1,0 +1,8 @@
+﻿  QtWidgetsApplication2.cpp
+C:\Users\zx176\Desktop\FS_T_Project2021\QtWidgetsApplication2\QtWidgetsApplication2\QtWidgetsApplication2.cpp(3,24): error C2039: "Rongruanjian": 不是 "QtWidgetsApplication2" 的成员
+C:\Users\zx176\Desktop\FS_T_Project2021\QtWidgetsApplication2\QtWidgetsApplication2\QtWidgetsApplication2.h(6): message : 参见“QtWidgetsApplication2”的声明
+C:\Users\zx176\Desktop\FS_T_Project2021\QtWidgetsApplication2\QtWidgetsApplication2\QtWidgetsApplication2.cpp(4,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\zx176\Desktop\FS_T_Project2021\QtWidgetsApplication2\QtWidgetsApplication2\QtWidgetsApplication2.cpp(5,1): error C2550: “Rongruanjian”: 构造函数初始值设定项列表只能在构造函数定义中使用
+C:\Users\zx176\Desktop\FS_T_Project2021\QtWidgetsApplication2\QtWidgetsApplication2\QtWidgetsApplication2.cpp(6,5): error C2065: “ui”: 未声明的标识符
+C:\Users\zx176\Desktop\FS_T_Project2021\QtWidgetsApplication2\QtWidgetsApplication2\QtWidgetsApplication2.cpp(6,16): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+C:\Users\zx176\Desktop\FS_T_Project2021\QtWidgetsApplication2\QtWidgetsApplication2\QtWidgetsApplication2.cpp(7,1): warning C4508: “Rongruanjian”: 函数应返回一个值；假定“void”返回类型
